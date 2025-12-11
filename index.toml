@@ -1,0 +1,176 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/armor-poser.pw.toml"
+hash = "b659fbc80c2d4377d2c50eba4119ba033906fb10bb3df3142fcd31e525983c6b"
+metafile = true
+
+[[files]]
+file = "mods/axiom.pw.toml"
+hash = "518d6273b6272750e2edef1a372fd6c2be60670f5ff00887aef6e19f470bfe41"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "e80c6652b75192f5823cd725d1ef079e1d30b9df2fd655134a31b781c9c86068"
+metafile = true
+
+[[files]]
+file = "mods/bundles-beyond.pw.toml"
+hash = "974869c564ba74f0ae34d82d242b868c532d97ff83383c81d4d09551ed87fe5f"
+metafile = true
+
+[[files]]
+file = "mods/camera-utils.pw.toml"
+hash = "fbfff447728e018319cc1413d91d2c33ca32556e095c97eba493d6c09d1f021a"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "ce90f8ef06f71c6de7d2fe2623390f2e58e0be5284581ba4933a42a4e3aa9977"
+metafile = true
+
+[[files]]
+file = "mods/chat-signing-hider.pw.toml"
+hash = "8d8863656d46706d357eec0aaf440b0262863d0172463091c5927a570f5e9451"
+metafile = true
+
+[[files]]
+file = "mods/cicada.pw.toml"
+hash = "dbc4d5a60092831b89c3d1b697b43324b268cb970bf01786a0edb1a7e001d87d"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "b2103de7f3d13a7b7868890afd358e51f93bea4914e226fc0fbe53bdb84ff7e8"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "5a10992f3a471021e3a1c63727b7437dc04190efd5f3be1531bfb9f0b08230e9"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "fa8be992c1e3efbd030ef6a84409b766a936deb3fc3d06b657f8e468745044f0"
+metafile = true
+
+[[files]]
+file = "mods/freecam.pw.toml"
+hash = "db4ea89ef39c92aa7b85a22ab5f84959784ab9dcdf2c9507f2960703c7ab9c28"
+metafile = true
+
+[[files]]
+file = "mods/itemswapper.pw.toml"
+hash = "67fcdafe078bc644bbb14575d6e2623aef931adf52e48f4f3cfea8c1c8fce305"
+metafile = true
+
+[[files]]
+file = "mods/libjf.pw.toml"
+hash = "ec8cf571adb8f71dbac6dae6f9d804fa810999b8c9fcfa3c20b07addc0a07936"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "bc5613671afa5f828b667b70385e1323227dbd91ce66cf5ae7128198c59849da"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "5787b1deb7975af608901df0bf16b1e5de2452c98808f6a205c35aaa83e9f56a"
+metafile = true
+
+[[files]]
+file = "mods/locator-heads.pw.toml"
+hash = "55b3ec84f9acee87ee718e4c315cdf5e86c0e882c55a98a53034ff3bf5307218"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "ff6121108daaf566d8899fbd2b9359a98ca627b99399dc9a34c1019fbfd2eaac"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "e1fb3d150181a968b1d428def3cca9e4b328b9dc2f1bb006e469732aabf80ee6"
+metafile = true
+
+[[files]]
+file = "mods/model-browser.pw.toml"
+hash = "fe290be05d016aa1d7813b79005575c2ed2f56dc4a9202d8842270af12820fe2"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "9cb7b03b45eb9eede9748fd6dfb4de9396378ce7883da6d0da657675c7aa060d"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "5a8266ecf742e57419d77b2ab0a55697243a7f6ea68bf61f3ec1b0e059dec7ed"
+metafile = true
+
+[[files]]
+file = "mods/peek.pw.toml"
+hash = "3f147bbd3c21b5684c5e7a6dfc33acb2c86ee082ff197f9fc0aa835fd2c35f82"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "3aac9c45822ac00fdb0f2b834e0020af0c78a559681540e25af8c67bbca3cc8d"
+metafile = true
+
+[[files]]
+file = "mods/raised.pw.toml"
+hash = "1390f7d5403e433f9f84d14e39b14f718e597a4e70b78129b0e93c9d394c9b72"
+metafile = true
+
+[[files]]
+file = "mods/respackopts.pw.toml"
+hash = "06f3344c455836ebb0f08fd5b35d5d2894b102080d1f81e92c1a50a5a0ea9bde"
+metafile = true
+
+[[files]]
+file = "mods/scribble.pw.toml"
+hash = "6f6ca7ad199c17f66e007443bc7d8179889afb2084b0e1afa0f03afc24387ffb"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "590bd71a45f826c5e1ecda3adf133b19731ab9dc74d6582d259562aed70f2db2"
+metafile = true
+
+[[files]]
+file = "mods/server-resource-pack-checker.pw.toml"
+hash = "47e3ae2a0f6862e8523662191f06e57719151b68dbcfbf44c3016c02f3ea8dc0"
+metafile = true
+
+[[files]]
+file = "mods/shadeandsaturation.pw.toml"
+hash = "05c40bc41b08cc311dfd2a9f97da077bbd1711180634bd34697cdfda72fee597"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "7480a3c2deca7eaa725db9981af97833151a7cbf3027c823f577e43032396b38"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "233e1f6a3c1f2aaae3f311168e62bbae8c894923e65866b27c689ac0bcd60dde"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "fbb68e5991ad23a75679bc7deae303166393ec3108e40d133054a4cc8914e5fd"
+metafile = true
+
+[[files]]
+file = "mods/status.pw.toml"
+hash = "a3fdb97f15b9afc78c87ff7d98818f4451057fd4a8b16acf3fc513627abcc538"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "39b4cccb2535a746e6597c84eaaa3052c0c20f2dd0704dfe853ffa5853dfb3d6"
+metafile = true

@@ -1,0 +1,13 @@
+name = "Item Model Browser"
+filename = "modelbrowser-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QgDZY2Yg/versions/GffsQXPi/modelbrowser-1.3.0.jar"
+hash-format = "sha1"
+hash = "7af240fac534320afc4464912584017336024775"
+
+[update]
+[update.modrinth]
+mod-id = "QgDZY2Yg"
+version = "GffsQXPi"

@@ -1,0 +1,13 @@
+name = "Shade & Saturation Slider"
+filename = "sss-0.0.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TjdLmzvL/versions/PmKcmW2y/sss-0.0.3.jar"
+hash-format = "sha1"
+hash = "a399fc1adcad283227f7b25783a734f4dd5d97b5"
+
+[update]
+[update.modrinth]
+mod-id = "TjdLmzvL"
+version = "PmKcmW2y"
