@@ -345,6 +345,11 @@ hash = "39b4cccb2535a746e6597c84eaaa3052c0c20f2dd0704dfe853ffa5853dfb3d6"
 metafile = true
 
 [[files]]
+file = "resourcepacks/hoffens-minimal-armor.pw.toml"
+hash = "a7e5f2a2661a4ef25fe71914edc2b1c29d4acd11479c163c31d09f9be26dc42d"
+metafile = true
+
+[[files]]
 file = "servers.dat"
 hash = "40c78fef5c900945856f41229d8659c4b9e80d605ba74ed53c28fd123f55677a"
 
