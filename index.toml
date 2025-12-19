@@ -225,6 +225,11 @@ hash = "db4ea89ef39c92aa7b85a22ab5f84959784ab9dcdf2c9507f2960703c7ab9c28"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "e40c635ba1ed5d31678382038ae61d5aebdf6e0ae247e00126de812c2038c0af"
+metafile = true
+
+[[files]]
 file = "mods/itemswapper.pw.toml"
 hash = "67fcdafe078bc644bbb14575d6e2623aef931adf52e48f4f3cfea8c1c8fce305"
 metafile = true
@@ -342,3 +347,41 @@ metafile = true
 [[files]]
 file = "servers.dat"
 hash = "40c78fef5c900945856f41229d8659c4b9e80d605ba74ed53c28fd123f55677a"
+
+[[files]]
+file = "shaderpacks/SEUS PTGI E12.zip"
+hash = "929754228be39a7a3407be6f3c7f8f8f6fe84c14319840f9c3bba5695796ee4f"
+
+[[files]]
+file = "shaderpacks/SEUS-Renewed-v1.0.1.zip"
+hash = "76a1ff6c0d7827ecd0857e5a9b5298337f232662767abf0f011154c85b6da8ef"
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "5f9f72aacbc0041056412f18dd6ea18aa87a39307e7cd2babd80910e242fcb71"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "a6069e50f5f040ca578879297c8be5bb4affc4abeb83438bce51c801f938a564"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "c363c5cebefc114a08ca1bd415521554dc5d1ee7ef3843adad4846be548816ec"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
+hash = "fef87582943760a2b187cc494f4b1f55b40425874a003fb221d1f4692331372c"
+metafile = true
+
+[[files]]
+file = "shaderpacks/sildurs-vibrant-shaders.pw.toml"
+hash = "626b928a06444e7b76bf804e1b880cea3baf2bf2c42bcca6e25517592f103ee8"
+metafile = true
+
+[[files]]
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "90f0f949d1c5caec84b32ad9e4c773b1df4a00e250dabc9e6d3782bc22c385ba"
+metafile = true
