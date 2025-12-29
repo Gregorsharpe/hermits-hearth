@@ -170,8 +170,13 @@ hash = "b659fbc80c2d4377d2c50eba4119ba033906fb10bb3df3142fcd31e525983c6b"
 metafile = true
 
 [[files]]
-file = "mods/axiom.pw.toml"
-hash = "518d6273b6272750e2edef1a372fd6c2be60670f5ff00887aef6e19f470bfe41"
+file = "mods/audioplayer.pw.toml"
+hash = "779d6062c9dfd7d9cc2190b96e87b8f38eb9ba432a7ce5fd843a9c122fc2505a"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "d1b771355272dd080b00c13b035a972a8fec5234033c0166252db90b8bfee0ac"
 metafile = true
 
 [[files]]
@@ -187,6 +192,11 @@ metafile = true
 [[files]]
 file = "mods/camera-utils.pw.toml"
 hash = "fbfff447728e018319cc1413d91d2c33ca32556e095c97eba493d6c09d1f021a"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "020b4571a4bbc556c56d0f8ba2a1ed1f6cf7d693d13feb2cef1624d49086ecbb"
 metafile = true
 
 [[files]]
@@ -215,6 +225,11 @@ hash = "5a10992f3a471021e3a1c63727b7437dc04190efd5f3be1531bfb9f0b08230e9"
 metafile = true
 
 [[files]]
+file = "mods/craftingtweaks.pw.toml"
+hash = "a0d5b63ce10b8b928d2a4214a3820c527465a3a242d57e7922c3ee501a1dd1ad"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "fa8be992c1e3efbd030ef6a84409b766a936deb3fc3d06b657f8e468745044f0"
 metafile = true
@@ -225,13 +240,13 @@ hash = "db4ea89ef39c92aa7b85a22ab5f84959784ab9dcdf2c9507f2960703c7ab9c28"
 metafile = true
 
 [[files]]
-file = "mods/iris.pw.toml"
-hash = "e40c635ba1ed5d31678382038ae61d5aebdf6e0ae247e00126de812c2038c0af"
+file = "mods/inventory-essentials.pw.toml"
+hash = "8294ea0f9f3d1c340c77ee52fcfaf6e1ed6903b3fce03b8699d2180f7fde45ad"
 metafile = true
 
 [[files]]
-file = "mods/itemswapper.pw.toml"
-hash = "67fcdafe078bc644bbb14575d6e2623aef931adf52e48f4f3cfea8c1c8fce305"
+file = "mods/iris.pw.toml"
+hash = "e40c635ba1ed5d31678382038ae61d5aebdf6e0ae247e00126de812c2038c0af"
 metafile = true
 
 [[files]]
@@ -252,6 +267,11 @@ metafile = true
 [[files]]
 file = "mods/locator-heads.pw.toml"
 hash = "55b3ec84f9acee87ee718e4c315cdf5e86c0e882c55a98a53034ff3bf5307218"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "2b49f28c7ca9d6c75fde3c1a8e8adbec1b6fb87a23f1e6765cd384ae5d29e713"
 metafile = true
 
 [[files]]
@@ -315,6 +335,11 @@ hash = "47e3ae2a0f6862e8523662191f06e57719151b68dbcfbf44c3016c02f3ea8dc0"
 metafile = true
 
 [[files]]
+file = "mods/servux.pw.toml"
+hash = "c96445fa15b6db93634ae1f4b029e949150b6128466742be0fdc424a686f8881"
+metafile = true
+
+[[files]]
 file = "mods/shadeandsaturation.pw.toml"
 hash = "05c40bc41b08cc311dfd2a9f97da077bbd1711180634bd34697cdfda72fee597"
 metafile = true
@@ -340,9 +365,18 @@ hash = "a3fdb97f15b9afc78c87ff7d98818f4451057fd4a8b16acf3fc513627abcc538"
 metafile = true
 
 [[files]]
+file = "mods/textile-backup.pw.toml"
+hash = "3f83e64500b12335fb478f5ea472dcec04a22d58e2df47edecb2d78bd233fbec"
+metafile = true
+
+[[files]]
 file = "mods/worldedit.pw.toml"
 hash = "39b4cccb2535a746e6597c84eaaa3052c0c20f2dd0704dfe853ffa5853dfb3d6"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Smaller_Fire_Quiet_Dispensers.zip"
+hash = "520071cc0125ca981fd8d00fedf4cef09c596b698381bac94bb17f681e4e97e3"
 
 [[files]]
 file = "resourcepacks/hoffens-minimal-armor.pw.toml"
