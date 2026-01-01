@@ -235,6 +235,11 @@ hash = "fa8be992c1e3efbd030ef6a84409b766a936deb3fc3d06b657f8e468745044f0"
 metafile = true
 
 [[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "d81792ddca76716da47aa5870a1e7b3ec1cdbc0c3f7d1db367e881d6253104a9"
+metafile = true
+
+[[files]]
 file = "mods/freecam.pw.toml"
 hash = "db4ea89ef39c92aa7b85a22ab5f84959784ab9dcdf2c9507f2960703c7ab9c28"
 metafile = true
