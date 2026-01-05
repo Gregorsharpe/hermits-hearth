@@ -404,6 +404,11 @@ hash = "a7e5f2a2661a4ef25fe71914edc2b1c29d4acd11479c163c31d09f9be26dc42d"
 metafile = true
 
 [[files]]
+file = "resourcepacks/redstone-tweaks.pw.toml"
+hash = "0f4bb2ec47366e11f3d05b2bdd656a19a007247830cca79178e0426bff2b5b82"
+metafile = true
+
+[[files]]
 file = "servers.dat"
 hash = "40c78fef5c900945856f41229d8659c4b9e80d605ba74ed53c28fd123f55677a"
 
