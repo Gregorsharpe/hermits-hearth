@@ -245,6 +245,11 @@ hash = "db4ea89ef39c92aa7b85a22ab5f84959784ab9dcdf2c9507f2960703c7ab9c28"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "402a3ed76dae87ca4731c07c86030735f89f9b393ccd96254766ce3c0fc98813"
+metafile = true
+
+[[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "8294ea0f9f3d1c340c77ee52fcfaf6e1ed6903b3fce03b8699d2180f7fde45ad"
 metafile = true
@@ -397,6 +402,21 @@ metafile = true
 [[files]]
 file = "resourcepacks/Smaller_Fire_Quiet_Dispensers.zip"
 hash = "520071cc0125ca981fd8d00fedf4cef09c596b698381bac94bb17f681e4e97e3"
+
+[[files]]
+file = "resourcepacks/fusion-block-transitions.pw.toml"
+hash = "d31505ffe2e8c4dcb5efe4d3a02cb3f3d038f6e06528a1b5e7b0a86925f3a644"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fusion-connected-blocks.pw.toml"
+hash = "3e30e3e3cdf2b3b96206e7eea99c31fc396516cdfdabf693ed0f4b293075b88e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fusion-connected-glass.pw.toml"
+hash = "ee95f86532f7dee8ca3e47464b5dae6a460e376e2eb5b7be92df7b2f30f27851"
+metafile = true
 
 [[files]]
 file = "resourcepacks/hoffens-minimal-armor.pw.toml"

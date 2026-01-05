@@ -1,0 +1,13 @@
+name = "Fusion Connected Blocks"
+filename = "Fusion Connected Blocks v1.0.2 for Minecraft 1.20-1.21.8.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2w5wDdfQ/versions/S5JzbSss/Fusion%20Connected%20Blocks%20v1.0.2%20for%20Minecraft%201.20-1.21.8.zip"
+hash-format = "sha1"
+hash = "74ac3ff2e5215703ba9057d0e4662e726a847764"
+
+[update]
+[update.modrinth]
+mod-id = "2w5wDdfQ"
+version = "S5JzbSss"

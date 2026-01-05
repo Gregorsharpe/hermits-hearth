@@ -1,0 +1,13 @@
+name = "Fusion Connected Glass"
+filename = "Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xuN3KzPl/versions/oYKivjVk/Fusion%20Connected%20Glass%20v1.0.1%20for%20Minecraft%201.20-1.21.8.zip"
+hash-format = "sha1"
+hash = "48210e165b4df035509c2cdaba654afdb0ad27b3"
+
+[update]
+[update.modrinth]
+mod-id = "xuN3KzPl"
+version = "oYKivjVk"
