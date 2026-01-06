@@ -230,8 +230,18 @@ hash = "a0d5b63ce10b8b928d2a4214a3820c527465a3a242d57e7922c3ee501a1dd1ad"
 metafile = true
 
 [[files]]
+file = "mods/elytra-trims.pw.toml"
+hash = "5d275f843c2fce85ed48dfb883fde0229910add29ec7842e9652b275b74c853b"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "fa8be992c1e3efbd030ef6a84409b766a936deb3fc3d06b657f8e468745044f0"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "7ed8df687dc5d9229b3eabc08e8ef9c0bc3825d0f75736c53c1470adf43b4217"
 metafile = true
 
 [[files]]
