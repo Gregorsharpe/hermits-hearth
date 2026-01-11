@@ -315,11 +315,6 @@ hash = "5daad88f3e1d1a77eecf31c9a25acd6fe368d0c69c4548c6f439172605a90769"
 metafile = true
 
 [[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "5a8266ecf742e57419d77b2ab0a55697243a7f6ea68bf61f3ec1b0e059dec7ed"
-metafile = true
-
-[[files]]
 file = "mods/peek.pw.toml"
 hash = "c7eedf405dc18a92c69744c9b53517fad05ccd6c10272dea1e1fbf96fb9cb879"
 metafile = true
