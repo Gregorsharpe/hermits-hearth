@@ -395,11 +395,6 @@ hash = "96735be077251fb2637d0e5f570f456d57fcfe893f6e1f0b5f9e70155bcb49a5"
 metafile = true
 
 [[files]]
-file = "mods/textile-backup.pw.toml"
-hash = "3f83e64500b12335fb478f5ea472dcec04a22d58e2df47edecb2d78bd233fbec"
-metafile = true
-
-[[files]]
 file = "mods/worldedit.pw.toml"
 hash = "fb67d87806f9113a85eab564dfb5bb59297db4f4e26cfac574317c8e2c29afc9"
 metafile = true
