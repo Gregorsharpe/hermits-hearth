@@ -1,13 +1,13 @@
 name = "Elytra Trims"
-filename = "elytratrims-fabric-4.5.6+1.21.10.jar"
+filename = "elytratrims-fabric-4.6.1+1.21.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XpzGz7KD/versions/dASntKle/elytratrims-fabric-4.5.6%2B1.21.10.jar"
+url = "https://cdn.modrinth.com/data/XpzGz7KD/versions/blIGhB35/elytratrims-fabric-4.6.1%2B1.21.11.jar"
 hash-format = "sha1"
-hash = "d6d7843c26c91feec840732b3d842dd4b0b0db10"
+hash = "e65e53663885c2e761f5c8aa48f89f04ba725d08"
 
 [update]
 [update.modrinth]
 mod-id = "XpzGz7KD"
-version = "dASntKle"
+version = "blIGhB35"
