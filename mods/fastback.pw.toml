@@ -1,0 +1,13 @@
+name = "Fast Backups"
+filename = "fastback-0.30.0+1.21.11-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ee894c90866c2f0ce9cec27c7576ed7d23d67c53"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7360461
+project-id = 667417
