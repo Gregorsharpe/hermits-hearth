@@ -250,6 +250,11 @@ hash = "d81792ddca76716da47aa5870a1e7b3ec1cdbc0c3f7d1db367e881d6253104a9"
 metafile = true
 
 [[files]]
+file = "mods/fastback.pw.toml"
+hash = "be65d15c8a5181d53aa0b20a5fa488ced3846b248c45eff3df5fd64e3645307d"
+metafile = true
+
+[[files]]
 file = "mods/freecam.pw.toml"
 hash = "48708edca9963764ff2a41cee44803bd0b928e5bc00c4d2cd1e57396316ecd71"
 metafile = true
