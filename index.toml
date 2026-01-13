@@ -250,9 +250,8 @@ hash = "d81792ddca76716da47aa5870a1e7b3ec1cdbc0c3f7d1db367e881d6253104a9"
 metafile = true
 
 [[files]]
-file = "mods/fastback.pw.toml"
-hash = "be65d15c8a5181d53aa0b20a5fa488ced3846b248c45eff3df5fd64e3645307d"
-metafile = true
+file = "mods/fastback-0.30.0+1.21.11-fabric.jar"
+hash = "fc612ade00bc4097556c5acae497134039a4f9cb895fa90090538a7eb0de1269"
 
 [[files]]
 file = "mods/freecam.pw.toml"
